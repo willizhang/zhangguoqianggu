@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Frictionless Data tools](https://frictionlessdata.io), Git, Python, and regression methods (frequentist & bayesian).
 - 📫 How to reach me: guo-qiang.zhang@gu.se.
 - 😄 Pronouns: he/him.
-- ⚡ More about me: https://fellows.frictionlessdata.io/blog/hello-guo-qiang/.
+- ⚡ More about me: [Google Scholar](https://scholar.google.com/citations?user=cA6JOJAAAAAJ&hl=en), [Frictionless Data for Reproducible Research Fellows Programme](https://fellows.frictionlessdata.io/blog/hello-guo-qiang/)
 
 <!--
 - 💬 Ask me about ...
