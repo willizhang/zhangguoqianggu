@@ -5,8 +5,8 @@
 - 🤔 I’m looking for a postdoc position in Clinical Epidemiology.
 - :cowboy_hat_face: Fun fact about me: work like a robot, play like a kid.
 - :partying_face: Interests: a long walk in the forest 🌳🐿, hiking ⛰, dancing (Reggaeton Mix, Salsa), swiming 🏊‍♂️...
-- 😄 Pronouns: he/him.
 - 🗣 Languages: English, Mandarin Chinese, Swedish (elementary level).
+- 😄 Pronouns: he/him.
 - 📫 How to reach me: guo-qiang.zhang@hotmail.com.
 - ⚡ More about me: [ResearchGate](https://www.researchgate.net/profile/Guo-Qiang-Zhang-4), [Frictionless Data for Reproducible Research Fellows Programme](https://fellows.frictionlessdata.io/blog/hello-guo-qiang/)
 
