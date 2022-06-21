@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a doctoral student in Clinical Epidemiology at [Krefting Research Centre in University of Gothenburg](https://www.gu.se/en/krefting-research) (Sweden). I am currently working on sex hormones and women's health (with a particular focus on asthma), using epidemiological methods as well as evidence synthesis tools (including systematic reviews, meta-analyses and umbrella reviews). I am passionate about Open Science and research reproducibility.
+- 🔭 I’m a doctoral student in Clinical Epidemiology at [Krefting Research Centre in University of Gothenburg](https://www.gu.se/en/krefting-research) (Sweden). I am currently working on female sex hormones and women's health (with a particular focus on asthma), using epidemiological methods as well as evidence synthesis tools (including systematic review, meta-analysis, and umbrella review). I am passionate about Open Science and research reproducibility.
 - 🌱 I’m currently learning causal inference using observational data, and Frequentist & Bayesian statistics.
 - 🤔 I’m looking for a postdoc position in Clinical Epidemiology.
 - :cowboy_hat_face: Fun fact about me: work like a robot, play like a kid.
