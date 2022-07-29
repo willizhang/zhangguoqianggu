@@ -8,7 +8,7 @@
 - 🗣 Languages: English, Mandarin Chinese, Swedish (elementary level).
 - 😄 Pronouns: he/him.
 - 📫 How to reach me: guo-qiang.zhang@hotmail.com.
-- ⚡ More about me: [ResearchGate](https://www.researchgate.net/profile/Guo-Qiang-Zhang-4), [Frictionless Data for Reproducible Research Fellows Programme](https://fellows.frictionlessdata.io/blog/hello-guo-qiang/)
+- ⚡ More about me: blogs at Frictionless Data for Reproducible Research Fellows Programme ([Joining the programme](https://fellows.frictionlessdata.io/blog/hello-guo-qiang/), the concluding blog (link to be added later)), [ResearchGate](https://www.researchgate.net/profile/Guo-Qiang-Zhang-4)
 
 June 21, 2022
 
